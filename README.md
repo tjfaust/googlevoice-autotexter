@@ -1,5 +1,5 @@
 # googlevoice-autotexter
-an app to send a bunch of texts (from a script) to a bunch of people, using multiple Google Voice clients
+an app to send a bunch of texts (from a script) to a bunch of people, using multiple Google Voice clients. it is functionally the same as copying and pasting a text in the GV interface, as if you were text-banking the normal way, but lets you focus on replies instead of sends.
 
 "Why Use This?"
 maybe you have a lot of GOTV or other campaign-based texts you need to send, but you don't want to use Twilio or other paid services. 
